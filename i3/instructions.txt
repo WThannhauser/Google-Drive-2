@@ -1,0 +1,6 @@
+Download:
+-i3 Blocks: Allows for better blocks on i3 bar
+-lxappearance: Patches GTK theme and font
+  -Arc theme
+-Droid Sans Mono Font
+-???
